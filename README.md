@@ -32,3 +32,4 @@
 <br>
 
 - 클래스 다이어그램
+![class_diagram](./class_diagram.png)
